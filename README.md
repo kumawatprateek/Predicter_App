@@ -38,13 +38,19 @@ This project presents Predicter, a software application designed to predict car 
 Below are a few screenshots of the Predicter application's graphical user interface built with Kivy:
 
 #### Home Screen
-![Home Screen](Docs_Images/hh.jpg)
+<div align="center">
+    <img src="Docs_Images/hh.jpg" alt="Home Screen" width="500">
+</div>
 
 #### Car Price Prediction
-![Car Price Prediction](Docs_Images/hh2.jpg)
+<div align="center">
+    <img src="Docs_Images/hh2.jpg" alt="Car Price Prediction" width="500">
+</div>
 
 #### House Price Prediction
-![House Price Prediction](Docs_Images/hh1.jpg)
+<div align="center">
+    <img src="Docs_Images/hh1.jpg" alt="House Price Prediction" width="500">
+</div>
 
 ---
 
